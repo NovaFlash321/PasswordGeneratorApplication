@@ -8,8 +8,8 @@
 
 # HOW TO USE
 
-## 1. Clone repository for any extra modifcations on the user-side (Optional)
+## 1. Open the [compressed file](https://github.com/NovaFlash321/PasswordGeneratorApplication/blob/master/Password%20Generator/bin/Release/PasswordGen.zip) 
 
-## 2. Run the executable from the Release Folder
+## 2. Unzip into specified folder
 
 ## 3. As there is no need to save .txt files from previous version, choose the length of desired password (10-25 characters)
