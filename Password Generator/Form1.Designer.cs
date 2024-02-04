@@ -53,13 +53,13 @@
             passwordLength.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
             passwordLength.Location = new Point(12, 70);
             passwordLength.Maximum = 25;
-            passwordLength.Minimum = 10;
+            passwordLength.Minimum = 13;
             passwordLength.Name = "passwordLength";
             passwordLength.Orientation = Orientation.Vertical;
             passwordLength.Size = new Size(45, 287);
             passwordLength.TabIndex = 3;
             passwordLength.TickStyle = TickStyle.Both;
-            passwordLength.Value = 10;
+            passwordLength.Value = 13;
             passwordLength.Scroll += trackBar1_Scroll;
             // 
             // label1
